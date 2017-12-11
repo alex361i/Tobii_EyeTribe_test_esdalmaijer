@@ -1,0 +1,2 @@
+	0-15	16	19-35	35-50	higher	inttimes_total	samples_missing	samples_total
+M	1.0	97318.0	779.0	12.0	2.0	98119.0	1246.0	98567.0

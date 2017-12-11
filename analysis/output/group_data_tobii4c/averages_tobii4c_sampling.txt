@@ -1,0 +1,2 @@
+	0-15	16	19-35	35-50	higher	inttimes_total	samples_missing	samples_total
+M	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,4 @@
+	eyes	nose	mouth	face	not on face
+Nfix	0	0	0	0	31
+fixdur	0	0	0	0	287.161290321
+dwelltime	0	0	0	0	8901.99999994

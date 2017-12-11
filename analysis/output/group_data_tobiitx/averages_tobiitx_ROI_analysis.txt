@@ -1,0 +1,4 @@
+	not on face	eyes	mouth	nose	face
+Nfix	25.0	0.0	0.0	0.0	0.0
+fixdur	256.650813653	0.0	0.0	0.0	0.0
+dwelltime	6098.37499999	0.0	0.0	0.0	0.0
